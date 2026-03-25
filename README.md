@@ -1,4 +1,4 @@
-# 📊 Tiki E-Commerce Data Analysis Dashboard
+# Tiki E-Commerce Data Analysis Dashboard
 
 ## 📌 Tổng quan dự án (Project Overview)
 Dự án thực hiện quy trình **End-to-End Data Analysis**: Từ việc thu thập dữ liệu (Web Scraping) trên sàn thương mại điện tử Tiki, xử lý dữ liệu thô (Data Cleaning) bằng **Python**, đến trực quan hóa và khai thác Insight bằng **Power BI**.
@@ -27,7 +27,7 @@ Dựa trên Dashboard thực tế với tổng doanh thu **~29 tỷ VNĐ**, dự
 ### 3. Sức mạnh thương hiệu (Brand Dominance)
 * Hàng có thương hiệu (**Branded**) chiếm đến **81.93%** doanh thu (tương đương 24 tỷ VNĐ). Điều này khẳng định người tiêu dùng trên Tiki có xu hướng tin tưởng tuyệt đối vào các **Official Stores**.
 
-## 📊 Hình ảnh Dashboard
+##  Hình ảnh Dashboard
 ![Tiki Dashboard](https://github.com/DanDuong0421/E-Commerce_Data_Analysis_Dashboard/blob/main/data/%E1%BA%A2nh%20ch%E1%BB%A5p%20m%C3%A0n%20h%C3%ACnh%202026-03-25%20170115.png)
 
 
