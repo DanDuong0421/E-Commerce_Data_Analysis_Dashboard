@@ -33,8 +33,7 @@ Dựa trên Dashboard thực tế với tổng doanh thu **~29 tỷ VNĐ**, dự
 
 ## 📂 Cấu trúc thư mục
 * `/data`: Chứa dữ liệu thô và file sạch `tiki_final_for_bi.csv`.
-* `/scripts`: Các file Python xử lý dữ liệu (`staging_pipeline.py`, `main.py`).
-* `/docs`: Tài liệu hướng dẫn và báo cáo phân tích.
+* Các file Python xử lý dữ liệu (`staging_pipeline.py`, `main.py`).
 
 ---
-**Thực hiện bởi:** Alvin (Information Systems Student)
+**Thực hiện bởi:** Đan Dương
