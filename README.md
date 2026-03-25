@@ -28,8 +28,8 @@ Dựa trên Dashboard thực tế với tổng doanh thu **~29 tỷ VNĐ**, dự
 * Hàng có thương hiệu (**Branded**) chiếm đến **81.93%** doanh thu (tương đương 24 tỷ VNĐ). Điều này khẳng định người tiêu dùng trên Tiki có xu hướng tin tưởng tuyệt đối vào các **Official Stores**.
 
 ## 📊 Hình ảnh Dashboard
-![Tiki Dashboard](https://github.com/DanDuong0421/AlvinPDF_Chatbox/raw/main/path_to_your_image.png) 
-*(Lưu ý: Alvin thay link ảnh thực tế của bạn vào đây nhé)*
+![Tiki Dashboard](![Uploading image.png…]()
+) 
 
 ## 📂 Cấu trúc thư mục
 * `/data`: Chứa dữ liệu thô và file sạch `tiki_final_for_bi.csv`.
